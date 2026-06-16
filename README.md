@@ -1,21 +1,26 @@
 # Maven-Sales-Analysis
-1. Project Title : Maven Sales Analysis Dashboard : A dynamic interactive dashboard built to explore sales data and perfromance of managers in the Maven Sales Company.
+### **Project Title** : 
+Maven Sales Analysis Dashboard : A dynamic interactive dashboard built to explore sales data and perfromance of managers in the Maven Sales Company.
 
-2. Project Description : For the Maven Sales Challenge, I am playing the role of a BI Developer for MavenTech, a company that specializes in selling computer hardware to large businesses. They've been using a new CRM system to track their sales opportunities but have no visibility of the data outside of the platform.
+### **Project Description** : 
+For the Maven Sales Challenge, I am playing the role of a BI Developer for MavenTech, a company that specializes in selling computer hardware to large businesses. They've been using a new CRM system to track their sales opportunities but have no visibility of the data outside of the platform.
 In an effort to become a data-driven organization, you've been asked to create an interactive dashboard that enables sales managers to track their team's quarterly performance.
 
-3. Tech Stack : The key technologies used to build the dashboard are
+### **Tech Stack**
+The key technologies used to build the dashboard are
 1) Power BI Desktop - Data Visualization platform for report creation
 2) Power Query - Data Transformation and cleaning layer for reshaping and preparing tha data
 3) DAX (Data Analysis Expression) - Used for calculated measures
 4) Data Modeling - To establish relationships among tables
 
-4. Data Source : The data contains B2B sales opportunities from a CRM database for a fictitious company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities. The data is stored in csv files.
+### **Data Source**
+The data contains B2B sales opportunities from a CRM database for a fictitious company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities. The data is stored in csv files.
    
-5. Features and Highlights :
-1) Business Problem: MavenTech company wants to get information about performance of the managers in different aspects. The company wants to assess the peformance of the managers every quarter and find who is lagging behind and take measures to improve their performance and hence improving the performance of the company.
+### **Features and Highlights**
+##### Business Problem:
+MavenTech company wants to get information about performance of the managers in different aspects. The company wants to assess the peformance of the managers every quarter and find who is lagging behind and take measures to improve their performance and hence improving the performance of the company.
 
-2) Key Questions:
+##### Key Questions:
 1) Analyse the overall performane of a sales manager and his team for a particulat quarter
 2) Find the Total sales by sector, product and also the top organizations with highest sales executed.
 3) Compare the Total and Number of sales Won, Average value of the sales, Average weeks taken to close a sale and the number of sales discounted by a manager with other managers in the company
@@ -23,10 +28,13 @@ In an effort to become a data-driven organization, you've been asked to create a
 5) Performance of the manager across different quarters of a particular year
 
 
-6. Visuals Used
+##### Visuals Used
 1) Total Sales By Manager, Average Sales, Average Weeks to Close, New Opportunities, Engaged Opportunities - (Card Visuals)
 2) Performance By Agent, Sales by Product, Open Opportunities (Table Visual)
 3) Total Sales By Sector, Total Sales By Product, Performance comparison measures with other managers (Clustered Bar Chart)
 4) Quarterly Opportunities for the manager (Stacked Column Chart)
 5) Total sales of the manager over a year across querters (Line Chart)
 6) Smart Narrative visual which analayses a number of visulas in the report page and derive insights from those
+
+
+##### Screen shots
