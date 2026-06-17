@@ -46,5 +46,5 @@ MavenTech company wants to get information about performance of the managers in 
 
 ![Open Opportunities of Manager][[Maven-Sales-Analysis/Open Opportunities of Manager.png at main · saritha28882/Maven-Sales-Analysis](https://github.com/saritha28882/Maven-Sales-Analysis/blob/main/Open%20Opportunities%20of%20Manager.png)]
 
-![Performance Over Time][Maven-Sales-Analysis/Performance over time.png at main · saritha28882/Maven-Sales-Analysis]
+![Performance Over Time][[Maven-Sales-Analysis/Performance over time.png at main · saritha28882/Maven-Sales-Analysis](https://github.com/saritha28882/Maven-Sales-Analysis/blob/main/Performance%20over%20time.png)]
 
