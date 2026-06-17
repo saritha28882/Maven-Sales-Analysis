@@ -38,8 +38,10 @@ MavenTech company wants to get information about performance of the managers in 
 
 
 ##### Screen shots
+[![Alt Text](Maven-Sales-Analysis/Selected Quarter Performance by Manager.png)
 
-Maven-Sales-Analysis/Selected Quarter Performance by Manager.png at main · saritha28882/Maven-Sales-Analysis
+
+
 
 Maven-Sales-Analysis/Selected Quarter Sales by Manager.png at main · saritha28882/Maven-Sales-Analysis
 
