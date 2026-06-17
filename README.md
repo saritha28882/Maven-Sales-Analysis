@@ -38,7 +38,7 @@ MavenTech company wants to get information about performance of the managers in 
 
 
 ##### Screen shots
-**Selected Quarter Performance**[(Maven-Sales-Analysis/Selected Quarter Performance by Manager.png)](https://github.com/saritha28882/Maven-Sales-Analysis/blob/main/Selected%20Quarter%20Performance%20by%20Manager.png)
+####### **Selected Quarter Performance**[(Maven-Sales-Analysis/Selected Quarter Performance by Manager.png)](https://github.com/saritha28882/Maven-Sales-Analysis/blob/main/Selected%20Quarter%20Performance%20by%20Manager.png)
 
 **Selected Quarter Sales**[https://github.com/saritha28882/Maven-Sales-Analysis/blob/main/Selected%20Quarter%20Sales%20by%20Manager.png]
 
