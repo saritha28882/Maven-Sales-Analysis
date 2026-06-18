@@ -20,7 +20,15 @@ The data contains B2B sales opportunities from a CRM database for a fictitious c
 The first step is to create a date dimension table db_Date_Table in Power Query and then load the same to Power BI Desktop. The db_Date_Table has Date column whose value starts from the earliest date available in close_date column or the engage_date column whichever is the earliest.
 
 ##### **Relationships between Tables**
+Once the data set loaded to Power BI Desktop, the following relationships are established between tables.
 
+| SL No | Table1 | Table2 | Relationship | Relationship Status
+SL No	Table1	Table2	Relationship	Relationship Status
+1	Db_Date_Table (Date)	Db_sales_pipeline (Close_Date)	One to Many	Active
+2	Db_Date_Table (Date)	Db_sales_pipeline (Engage_Date)	One to Many	Inactive
+3	db_accounts (Account)	Db_sales_pipeline (Account)	One to Many	Active
+4	db_products(Product)	Db_sales_pipeline (Product)	One to Many	Active
+5	db_salesteams (sales_agent)	Db_sales_pipeline (sales_agent)	One to Many	Active
 
 ### **Features and Highlights**
 ##### Business Problem:
