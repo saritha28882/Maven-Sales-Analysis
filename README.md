@@ -16,6 +16,12 @@ The key technologies used to build the dashboard are
 ### **Data Source**
 The data contains B2B sales opportunities from a CRM database for a fictitious company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities. The data is stored in csv files.
    
+### **Data Modeling**
+The first step is to create a date dimension table db_Date_Table in Power Query and then load the same to Power BI Desktop. The db_Date_Table has Date column whose value starts from the earliest date available in close_date column or the engage_date column whichever is the earliest.
+
+##### **Relationships between Tables
+
+
 ### **Features and Highlights**
 ##### Business Problem:
 MavenTech company wants to get information about performance of the managers in different aspects. The company wants to assess the peformance of the managers every quarter and find who is lagging behind and take measures to improve their performance and hence improving the performance of the company.
