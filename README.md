@@ -22,20 +22,13 @@ The first step is to create a date dimension table db_Date_Table in Power Query 
 ##### **Relationships between Tables**
 Once the data set loaded to Power BI Desktop, the following relationships are established between tables.
 
-| Header 1 | Header 2 | Header 3 |
-| --- | --- | --- |
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
-
-
-| SL No | Table1 | Table2 | Relationship | Relationship Status
-SL No	Table1	Table2	Relationship	Relationship Status
-1	Db_Date_Table (Date)	Db_sales_pipeline (Close_Date)	One to Many	Active
-2	Db_Date_Table (Date)	Db_sales_pipeline (Engage_Date)	One to Many	Inactive
-3	db_accounts (Account)	Db_sales_pipeline (Account)	One to Many	Active
-4	db_products(Product)	Db_sales_pipeline (Product)	One to Many	Active
-5	db_salesteams (sales_agent)	Db_sales_pipeline (sales_agent)	One to Many	Active
+| SL No | Table1 | Table2 | Relationship | Relationship Status |
+| --- | --- | --- | --- | --- |
+| 1 | Db_Date_Table (Date) | Db_sales_pipeline (Close_Date) | One to Many | Active |
+| 2 | Db_Date_Table (Date) | Db_sales_pipeline (Engage_Date) | One to Many | Inactive |
+| 3 | db_accounts (Account) | Db_sales_pipeline (Account) | One to Many | Active |
+| 4 | db_products(Product) | Db_sales_pipeline (Product) | One to Many | Active |
+| 5 | db_salesteams (sales_agent) | Db_sales_pipeline (sales_agent) | One to Many | Active |
 
 ### **Features and Highlights**
 ##### Business Problem:
