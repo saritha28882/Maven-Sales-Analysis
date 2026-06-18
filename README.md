@@ -30,6 +30,10 @@ Once the data set loaded to Power BI Desktop, the following relationships are es
 | 4 | db_products(Product) | Db_sales_pipeline (Product) | One to Many | Active |
 | 5 | db_salesteams (sales_agent) | Db_sales_pipeline (sales_agent) | One to Many | Active |
 
+
+   <img width="752" height="445" alt="Data Modeling" src="https://github.com/user-attachments/assets/b4f96f8a-ad50-497f-aa93-c6224ebbd74e" />
+
+
 ### **Features and Highlights**
 ##### Business Problem:
 MavenTech company wants to get information about performance of the managers in different aspects. The company wants to assess the peformance of the managers every quarter and find who is lagging behind and take measures to improve their performance and hence improving the performance of the company.
