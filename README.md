@@ -19,7 +19,7 @@ The data contains B2B sales opportunities from a CRM database for a fictitious c
 ### **Data Modeling**
 The first step is to create a date dimension table db_Date_Table in Power Query and then load the same to Power BI Desktop. The db_Date_Table has Date column whose value starts from the earliest date available in close_date column or the engage_date column whichever is the earliest.
 
-##### **Relationships between Tables
+##### **Relationships between Tables**
 
 
 ### **Features and Highlights**
