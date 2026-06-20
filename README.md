@@ -1,6 +1,6 @@
 # Maven-Sales-Analysis
 ### **Project Title** : 
-Maven Sales Analysis Dashboard : A dynamic interactive dashboard built to explore sales data and perfromance of managers in the Maven Sales Company.
+Maven Sales Analysis Dashboard : A dynamic interactive dashboard built to explore sales data and performance of managers in the Maven Sales Company.
 
 ### **Project Description** : 
 For the Maven Sales Challenge, I am playing the role of a BI Developer for MavenTech, a company that specializes in selling computer hardware to large businesses. They've been using a new CRM system to track their sales opportunities but have no visibility of the data outside of the platform.
